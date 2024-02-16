@@ -1,0 +1,23 @@
+div {
+font-family: verdana;
+}
+h1{
+    text-align: center;
+    font-size: 23px;
+    text-decoration: underline;
+}
+h2{
+    font-size: 19px;
+    color: red;
+    font-weight: bold;
+    text-align:justify
+}
+h3{
+    font-size: 16px;
+    text-decoration: underline;
+    color: red;
+}
+p{
+    font-size: 14px;
+    line-height: 27px;
+}
